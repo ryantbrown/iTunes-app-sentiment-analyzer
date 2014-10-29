@@ -18,7 +18,11 @@
 @if(isset($review->content))
 
 
-<li class="list-group-item">{{ $review->content->label }}</li>
+<li class="list-group-item">
+<strong>{{ $review->title->label }}</strong><br>
+<p>{{ $review->content->label }}</p>
+
+</li>
 
 @endif
 

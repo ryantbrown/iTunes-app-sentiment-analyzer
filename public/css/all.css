@@ -6150,6 +6150,15 @@ span.title {
 .badge.blue {
   background-color: #428bca;
 }
+.list-group-item strong {
+  font-size: 18px;
+  color: #646464;
+}
+.list-group-item p {
+  line-height: 23px;
+  font-size: 15px;
+  color: #848484;
+}
 .navbar .container .navbar-brand {
   text-transform: uppercase;
   font-weight: 100;

@@ -15,4 +15,6 @@ return [
 
 	'debug' => true,
 
+	'url' => 'http://sentiment.app:8000'
+
 ];

@@ -55,9 +55,9 @@ return [
 		'mysql' => [
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'forge',
+			'database'  => 'sentiment',
 			'username'  => 'forge',
-			'password'  => '',
+			'password'  => 'b4a8XaAoBJeSvPMP3Kz2',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
